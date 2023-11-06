@@ -4,7 +4,8 @@ This project is the backend of school management system.
     
     Implemented using: Node.js, express, MongoDB and Redis.
 
-    Tested using: jest, supertest and postman.
+    Tested using: jest, supertest and postman. 
+        (the tests coverage exceeds 99% of the Branches).
 
     Secure against: Brocken Access Control attacks (BAC) and emails and password bruteforcing (rate limit)
 
