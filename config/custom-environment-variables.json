@@ -1,0 +1,11 @@
+{
+  "jwtPrivateKey": "SM_jwtPrivateKey",
+  "mongoDB_url": "SM_mongoDB_url",
+  "redisDB_url": "SM_redisDB_url",
+  "port": "SM_port",
+  "superAdmin":{
+    "email": "SM_email",
+    "password": "SM_password",
+    "username": "SM_username"
+  }
+}

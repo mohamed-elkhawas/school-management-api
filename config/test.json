@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "mongoDB_url": "mongodb://0.0.0.0/SM_tests",
+  "redisDB_url": "redis://0.0.0.0:6379",
+  "port": "0"
+}

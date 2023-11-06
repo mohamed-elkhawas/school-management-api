@@ -1,0 +1,11 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "mongoDB_url": "mongodb://0.0.0.0/SM",
+  "port": "3000",
+  "redisDB_url": "redis://0.0.0.0:6379",
+  "superAdmin":{
+    "email": "SM_email@email.com",
+    "password": "SM_password",
+    "username": "SM_username"
+  }
+}
