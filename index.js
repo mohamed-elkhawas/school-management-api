@@ -10,6 +10,7 @@ require("./startups/mongoDB")();
 require("./startups/config")();
 require("./startups/validation")();
 require("./startups/redis").redisConnect();
+require("./startups/production")(app);
 
 const port = process.env.PORT || config.get("port");
 const server = app.listen(port, () =>
