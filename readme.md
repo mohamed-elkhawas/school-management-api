@@ -9,7 +9,7 @@ This project is the backend of school management system.
 
     Secure against: Brocken Access Control attacks (BAC) and emails and password bruteforcing (rate limit)
 
-    Deployed on:
+    Deployed on: https://sms-api-ccpx.onrender.com
 
     Details:
         
